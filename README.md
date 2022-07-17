@@ -1,3 +1,4 @@
-# angular-kayydx-gxgd19
+Tech 4 LESS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-kayydx-gxgd19)
+e-commerce site with a catalog, shopping cart, and check-out form.
+each product includes "share" button 
